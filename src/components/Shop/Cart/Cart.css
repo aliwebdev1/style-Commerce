@@ -1,0 +1,6 @@
+.cart-calculation{
+    position: fixed;
+    right: 20px;
+    top: 100px;
+    overflow: hidden;
+}
